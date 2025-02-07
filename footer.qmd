@@ -1,0 +1,9 @@
+
+```{r, exec=TRUE, echo=FALSE,results='hide'}
+lastecit <- as.Date(max(file.mtime(list.files(pattern = "\\.md$|\\.Rmd$", recursive = T))))
+alledits <- head(sort(unique(as.Date(file.mtime(list.files(pattern = "\\.md$|\\.Rmd$", recursive = T)))),decreasing = T),n = 10)
+```
+
+
+Last site updates. **`r paste(paste(alledits,collapse=",\ "))`**
+
