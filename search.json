@@ -109,28 +109,28 @@
     "href": "data_display.html#clear-sky-identification",
     "title": "Data display",
     "section": "Clear sky identification",
-    "text": "Clear sky identification\nPlots of clear sky identification (CSid) algorithm results. Include both DNI and GHI, but the characterization is based only on GHI (v14.2):\n\nCSid plots ()"
+    "text": "Clear sky identification\nPlots of clear sky identification (CSid) algorithm results. Include both DNI and GHI, but the characterization is based only on GHI (v14.2):\n\nCSid plots"
   },
   {
     "objectID": "data_display.html#ghi-global-horizontal-solar-radiation",
     "href": "data_display.html#ghi-global-horizontal-solar-radiation",
     "title": "Data display",
     "section": "GHI, global horizontal solar radiation",
-    "text": "GHI, global horizontal solar radiation\nData from a CM-21 pyranometer.\nPlots of the CM-21 pyranometer raw signal:\n\nCM-21 signal plots ()\nPlots of the GHI from the CM-21 pyranometer:\n\n\nCM-21 global radiation plots ()\n\n\n\n\n\nCM-21 view over the city"
+    "text": "GHI, global horizontal solar radiation\nData from a CM-21 pyranometer.\nPlots of the CM-21 pyranometer raw signal:\n\nCM-21 signal plots \nPlots of the GHI from the CM-21 pyranometer:\n\n\nCM-21 global radiation plots \n\n\n\nCM-21 view over the city"
   },
   {
     "objectID": "data_display.html#dni-direct-normal-solar-radiation",
     "href": "data_display.html#dni-direct-normal-solar-radiation",
     "title": "Data display",
     "section": "DNI, direct normal solar radiation",
-    "text": "DNI, direct normal solar radiation\nData from a CHP-1 pyrheliometer.\nPlots of the CHP-1 pyrheliometer raw signal:\n\nCHP-1 signal plots ()\nPlots of the DNI from the CHP-1 pyrheliometer:\n\n\nCHP-1 direct irradiance plots ()\n\n\n\n\n\nCHP-1 tracking the Sun"
+    "text": "DNI, direct normal solar radiation\nData from a CHP-1 pyrheliometer.\nPlots of the CHP-1 pyrheliometer raw signal:\n\nCHP-1 signal plots \nPlots of the DNI from the CHP-1 pyrheliometer:\n\n\nCHP-1 direct irradiance plots \n\n\n\n\n\nCHP-1 tracking the Sun"
   },
   {
     "objectID": "data_display.html#broad-band-signals-plots",
     "href": "data_display.html#broad-band-signals-plots",
     "title": "Data display",
     "section": "Broad-band signals plots",
-    "text": "Broad-band signals plots\nPlots of the recorded signal of each of the 8 channels/instruments. Each line is “free floating” in the figure, so there are no values on the y-axis. These data are un-managed and the plots may be incomplete. They are intended only for the acquisition process monitoring.\n\nAll broadband plots ()"
+    "text": "Broad-band signals plots\nPlots of the recorded signal of each of the 8 channels/instruments. Each line is “free floating” in the figure, so there are no values on the y-axis. These data are un-managed and the plots may be incomplete. They are intended only for the acquisition process monitoring.\n\nAll broadband plots"
   },
   {
     "objectID": "data_display.html#lap-weather-station",
@@ -144,6 +144,6 @@
     "href": "index.html#a-personal-web-page",
     "title": "Thanasis N",
     "section": "A personal web page",
-    "text": "A personal web page\nThis is a work in progress.\nHere you can find some results of my work, and some info about me.\n\n\n\n\n\n\nLast site updates were on:\n2025-01-29, 2025-01-27, 2025-01-04, 2024-02-01, 2024-01-31, 2024-01-29"
+    "text": "A personal web page\nThis is a work in progress.\nHere you can find some results of my work, and some info about me.\n\n\n\n\n\n\nLast site updates were on:\n2025-02-07, 2025-01-29, 2025-01-27, 2025-01-04, 2024-02-01, 2024-01-31, 2024-01-29"
   }
 ]
